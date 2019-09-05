@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# //so sanh 2 so va tim so nho nhat 
+#//so sanh 2 so va tim so nho nhat 
 
 echo Nhap a: 
 read a
